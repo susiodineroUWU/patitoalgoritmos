@@ -144,7 +144,7 @@ while op != "5":
              cdonkie+= 1
 
     elif op == "5":
-        print("  ")
+        print()
         print ( nombre,"has salido del menú ")
         print("¡Gracias por preferirnos!")
         ventas = conthelado+helado
